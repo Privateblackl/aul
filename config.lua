@@ -6,10 +6,10 @@ return {
 	admin = {
 		owner = 255317894,
 		admins = {
-			[141956218] = true
+			[255317894] = true
 		}
 	},
-	log_chat = -1001057801239,
+	log_chat = -1001044354213,
 	bot_settings = {
 		cache_time = {
 			adminlist = 18000, --5 hours (18000s)
