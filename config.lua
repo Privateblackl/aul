@@ -33,6 +33,7 @@ return {
 		'menu.lua',
 		'dashboard.lua',
 		'banhammer.lua',
+'bc.lua',
 		'users.lua',
 		'help.lua',
 		'rules.lua',
