@@ -19,7 +19,7 @@ else
  db:hset(hash, user_id, 'true')
  api.sendMessage(msg.chat.id, '*Chat Started!*\n` اگر کار یا سوالی با ادمین ربات دارید. همینجا پیام خود را ارسال کنید`\n!اگر کاری ندارید دکمه پایین پیام رو بزنید و ادامه بدید\n_Now You all message Send to Bot Admin_', true) 
  local keyboard = do_keyboard_endchat()
-        api.editMessageText(msg.chat.id, msg_id, text, keyboard, true)
+         api.sendKeyboard(msg.from.id, message, keyboard, true)
  end
  end
 if blocks[1] == 'end' then
