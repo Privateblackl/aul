@@ -166,17 +166,17 @@ The inline keyboard has three sub-menus:
 `/help` : show this message.'
 
 If you like this bot, please leave the vote you think it deserves [here](https://telegram.me/storebot?start=groupbutler_bot)']],
-		    private = 'Hello *&&&1* '..emoji.shaking_hand..', nice to meet you!\n'
-                    ..'I\'m Group Butler, the first administration bot using the official Bot API.\n'
-                    ..'\n*I can do a lot of cool stuffs*, here\'s a short list:\n'
-                    ..'• I can *kick or ban* users (even in normal groups) by reply/username\n'
-                    ..'• You can use me to set the group rules and a description\n'
-                    ..'• I have a flexible *anti-flood* system\n'
-                    ..'• I can *welcome new users* with a customizable message, or if you want with a gif or a sticker\n'
-                    ..'• I can *warn* users, and ban them when they reach the maximum number of warnings\n'
-                    ..'• I can also warn, kick or ban users when they post a specific media\n'
-                    ..'...and more, below you can find the "all commands" button to get the whole list!\n'
-                    ..'\nI work better if you add me to the group administrators (otherwise I won\'t be able to kick or ban)!',
+		    private = 'سلام *&&&1* '..emoji.shaking_hand..', از اشناییت خوشبختم\n'
+                    ..'من اولین ربات مدیریت گروه بر پایه ای پی ای اصلی هستم\n'
+                    ..'\nمن قابلیت های زیادی دارم لیسیتی کوتاه از قابلیت ها :\n'
+                    ..'• شما میتوانید افراد را کیک یا بن کنید با ریپلی  و حتی در گروه های معمولی\n'
+                    ..'• شما میتوانید با من برای خود قوانین و ابوت تنظیم کنید\n'
+                    ..'• من سیستم انتی اسپم بسیار قوی دارم\n'
+                    ..'• من میتونم به اعضای جدید خوش امد بگم با متن دلخواه شما و حتی با گیف یا استیکر و...\n'
+                    ..'• من میتوانم با دستو شما به افراد اخطار بدم و در صورت رسیدن به ماکسیموم ظرفیت انهارا کیک یا بن کنم\n'
+                    ..'• من میتونم به افرادی که در گروه لینک یا مدیا میگذارند به صورت خودکار وارن بدم و در صورت تکرار انهارا کیک یا بن کنم\n'
+                    ..'...و خیلی دستورات بیشتر که شما میتونید بازدن دکمه همه دستورات📍 انهارا مشاهده کنید !\n'
+                    ..'\nمن میتونم تو گروه شما بصورت مجانی کار کنم کافیه منو به گروهتون برده و ادمین کنید توجه کنید که اگه ادمین نکنید نمیتوانم کیک یا بن کنم !',
             group_success = '_I\'ve sent you the help message in private_',
             group_not_success = '_Please message me first so I can message you_',
             initial = 'You can surf this keyboard to see *all the available commands*',
