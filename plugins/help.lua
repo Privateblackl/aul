@@ -56,8 +56,8 @@ local function do_keyboard_private()
     		{text = '📢کانال ربات📍', url = 'https://telegram.me/'..config.channel:gsub('@', '')},
 	    },
 	    {
-	        {text = '📍همه دستورات📍 ', callback_data = 'user'}
-        }
+	        {text = '📍همه دستورات📍 ', callback_data = 'user'},
+        },
 {
 	        {text = '📍ارتباط با ادمین📍', callback_data = '/chat'}
         }
