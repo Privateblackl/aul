@@ -43,7 +43,7 @@ local function make_keyboard(mod, mod_current_position)
 	else
 	    bottom_bar = {{text = '🔰دستورات ادمین ها', callback_data = 'mod'}}
 	end
-	table.insert(bottom_bar, {text = 'Info', callback_data = 'fromhelp:info'}) --insert the "Info" button
+	table.insert(bottom_bar, {text = 'اطلاعات📍', callback_data = 'fromhelp:info'}) --insert the "Info" button
 	table.insert(keyboard.inline_keyboard, bottom_bar)
 	return keyboard
 end
@@ -59,7 +59,7 @@ local function do_keyboard_private()
 	        {text = '📍همه دستورات📍 ', callback_data = 'user'},
         },
 {
-	        {text = '📍ارتباط با ادمین📍', callback_data = '/chat'}
+	        {text = '📍ارتباط با پشتیبانی📍', url = 'https://telegram.me/sphero_bot'}
         }
     }
     return keyboard
