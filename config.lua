@@ -33,7 +33,6 @@ return {
 		'menu.lua',
 		'dashboard.lua',
 		'banhammer.lua',
-'bc.lua',
 		'users.lua',
 		'help.lua',
 		'rules.lua',
@@ -48,7 +47,6 @@ return {
 		'admin.lua',
 		'restore.lua',
 		'test.lua',
-'pmresan.lua',
 		'extra.lua', --has to be the last
 	},
 	multipurpose_plugins = {
