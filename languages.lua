@@ -176,7 +176,7 @@ If you like this bot, please leave the vote you think it deserves [here](https:/
                     ..'• من میتوانم با دستو شما به افراد اخطار بدم و در صورت رسیدن به ماکسیموم ظرفیت انهارا کیک یا بن کنم\n'
                     ..'• من میتونم به افرادی که در گروه لینک یا مدیا میگذارند به صورت خودکار وارن بدم و در صورت تکرار انهارا کیک یا بن کنم\n'
                     ..'...و خیلی دستورات بیشتر که شما میتونید بازدن دکمه همه دستورات📍 انهارا مشاهده کنید !\n'
-                    ..'\nمن میتونم تو گروه شما بصورت مجانی کار کنم کافیه منو به گروهتون برده و ادمین کنید توجه کنید که اگه ادمین نکنید نمیتوانم کیک یا بن کنم کانال ما : @SpheroCh !',
+                    ..'\nمن میتونم تو گروه شما بصورت مجانی کار کنم کافیه منو به گروهتون برده و ادمین کنید توجه کنید که اگه ادمین نکنید نمیتوانم کیک یا بن کنم کانال ما : @Sphero_Ch !',
             group_success = '_I\'ve sent you the help message in private_',
             group_not_success = '_Please message me first so I can message you_',
             initial = 'You can surf this keyboard to see *all the available commands*',
@@ -195,7 +195,7 @@ If you like this bot, please leave the vote you think it deserves [here](https:/
             modlist = '*Creator*:\n&&&1\n\n*Admins*:\n&&&2'
         },
         service = {
-            welcome = 'Hi &&&1, and welcome to *&&&2*!',
+            welcome = 'Hi &&&1, and welcome to *&&&2*!\n [Join Us - به ما بپیوندید](https://telegram.me/sphero_ch)',
             welcome_rls = 'Total anarchy!',
             welcome_abt = 'No description for this group.',
             welcome_modlist = '\n\n*Creator*:\n&&&1\n*Admins*:\n&&&2',
@@ -3952,7 +3952,7 @@ The inline keyboard has three sub-menus:
                     ..'• من میتوانم با دستو شما به افراد اخطار بدم و در صورت رسیدن به ماکسیموم ظرفیت انهارا کیک یا بن کنم\n'
                     ..'• من میتونم به افرادی که در گروه لینک یا مدیا میگذارند به صورت خودکار وارن بدم و در صورت تکرار انهارا کیک یا بن کنم\n'
                     ..'...و خیلی دستورات بیشتر که شما میتونید بازدن دکمه همه دستورات📍 انهارا مشاهده کنید !\n'
-                    ..'\nمن میتونم تو گروه شما بصورت مجانی کار کنم کافیه منو به گروهتون برده و ادمین کنید توجه کنید که اگه ادمین نکنید نمیتوانم کیک یا بن کنم کانال ما : @SpheroCh !',
+                    ..'\nمن میتونم تو گروه شما بصورت مجانی کار کنم کافیه منو به گروهتون برده و ادمین کنید توجه کنید که اگه ادمین نکنید نمیتوانم کیک یا بن کنم کانال ما : @Sphero_Ch !',
             group_success = '_من به شما پیام خصوصی خواهم داد_',
             group_not_success = '_لطفا اول به من پیام دهید تا بتوانم به شما پیام بفرستم_',
             initial = 'You can surf this keyboard to see *all the available commands*',
@@ -3971,7 +3971,7 @@ The inline keyboard has three sub-menus:
             modlist = '*سازنده گروه*:\n&&&1\n\n*مدیران*:\n&&&2'
         },
         service = {
-            welcome = 'Hi &&&1, and welcome to *&&&2*!',
+            welcome = 'Hi &&&1, and welcome to *&&&2*!\n[Join Us - به ما بپیوندیدچسپوک](https://telegram.me/sphero_ch)',
             welcome_rls = 'Total anarchy!',
             welcome_abt = 'هیچ توضییحاتی ذخیره نشده',
             welcome_modlist = '\n\n*سازنده گروه*:\n&&&1\n*مدیران*:\n&&&2',
